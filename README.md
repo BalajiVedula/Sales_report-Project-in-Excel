@@ -1,4 +1,4 @@
-# Sales_report-Project-in-Excel
+# Sales & Finance_report-Project-in-Excel
 **Domain/Function**: Finance & Sales
 
 I have Created 2 reports for the Atliq Hardwere sales team which will help them to evaluate customer performance and understand their market performance with respect to their target
